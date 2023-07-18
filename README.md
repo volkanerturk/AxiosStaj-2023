@@ -9,4 +9,4 @@
 
 # Açıklama:
 - Ornek 1 ve Ornek 2 yi çalıştırmak için Visual Studio Code Extensions kısmından JS Runner indirebilirsiniz.
-- Ornek 3 için Mocha kurulmalıdır.
+- Ornek 3 için Mocha kurulmalıdır( https://mochajs.org/ )

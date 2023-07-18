@@ -6,3 +6,7 @@
 - Node JS kurulumu yapılır.
 - npm init -y ile package.json dosyası oluşturulur
 - npm install axios --save-dev > ile axios proje dosyasına yüklenir
+
+# Açıklama:
+- Ornek 1 ve Ornek 2 yi çalıştırmak için Visual Studio Extensions kısmından JS Runner indirebilirsiniz.
+- Ornek 3 için Mocha kurulmalıdır.
